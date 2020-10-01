@@ -77,7 +77,7 @@ while True:
         print('Elementos en el arbol: ' + str(controller.indexSize(cont)))
         print('Menor Llave: ' + str(controller.minKey(cont)))
         print('Mayor Llave: ' + str(controller.maxKey(cont)))
-
+#f
     elif int(inputs[0]) == 3:
         print("\nBuscando crimenes en un rango de fechas: ")
         initialDate = input("Rango Inicial (YYYY-MM-DD): ")
